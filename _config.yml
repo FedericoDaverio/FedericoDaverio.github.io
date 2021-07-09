@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Federico Niccoló Daverio
-title: Senior Network System Administrator
+title: Economist and Data Analyst
 email: daveriofederico@gmail.com
 website: www.federicodaverio.github.io
 # Dark Mode (true/false/never)
@@ -31,7 +31,7 @@ linkedin_username: federicodaverio
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fas fa-globe
+  icon: images/spain.png
   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
