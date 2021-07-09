@@ -49,7 +49,7 @@ about_profile_image: images/prueba1.PNG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Federico and I'm an Economist and Data Analyst. I graduated in 2021 from the Development Economic Masters Program at [CIDE](https://www.cide.edu/).
   
-  Formerly I studied engineering (BSc) and Supply Chain Management (Msc) at [Politecnico di Milano](https://www.polimi.it/) in Milan and Seville. 
+  Formerly, I studied engineering (BSc) and Supply Chain Management (Msc) at [Politecnico di Milano](https://www.polimi.it/) in Milan and Seville. 
   
   I'm comitted to social causes and I love challenges as long learn day by day. I am interested in Public Policies, Development, Inequality, Social Program evaluation, Income distribution and Poverty and Urban Economics. I have worked on the effect of urban marginality on individual's employment results and the role of leaders during the Covid-19 pandemic. Here you can     
   
@@ -133,6 +133,10 @@ content:
         title: Programming
         description: | # this will include new lines to allow paragraphs
           R (Advanced), Python (Advanced), SQL (Intermediate), Stata (Intermediate), Html/Css (Basic), Excel/VBA (Advanced)
+      - layout: left
+        title: Expertness
+        description: | # this will include new lines to allow paragraphs
+          Program Evaluation, Data Sciene, Social Program Evaluation, Development Economics, Machine Learning, Business Intelligence & Data Mining
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
