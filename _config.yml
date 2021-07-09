@@ -67,16 +67,16 @@ content:
         description: | # this will include new lines to allow paragraphs
             During the master I start to work with a SNI researcher in his investigation, helping with data analysis and developing algorithms for social programs evaluation. Meanwhile I’m teaching the “Introduction to Data Science” laboratory.
         
-       - layout: left
-         title: Studio Ceri
-         link: studioceri.it
+       #- layout: left
+         #title: Studio Ceri
+         #link: studioceri.it
          #link_text: cide
-         sub_title: Supply Chain Coordinator Mexico
-         caption: November 2017 - Present
-         quote: >
-           Studio Ceri is an Italian leader in interior design focused on export the italian excelence to the world.
-         description: | # this will include new lines to allow paragraphs
-             When Studio Ceri decided to expand its business in México by buying an 28000 m2 warehouse, I was in charge of coordinating the whole supply chain and developing the necessary IT infrastructure. My current was Mexico Supply Chain Director, supervising purchasing, national logistic and warehouse division.
+         #sub_title: Supply Chain Coordinator Mexico
+         #caption: November 2017 - Present
+         #quote: >
+           #Studio Ceri is an Italian leader in interior design focused on export the italian excelence to the world.
+         #description: | # this will include new lines to allow paragraphs
+             #When Studio Ceri decided to expand its business in México by buying an 28000 m2 warehouse, I was in charge of coordinating the whole supply chain and developing the necessary IT infrastructure. My current was Mexico Supply Chain Director, supervising purchasing, national logistic and warehouse division.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
