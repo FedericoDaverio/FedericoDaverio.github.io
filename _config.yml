@@ -66,6 +66,16 @@ content:
           Public center of teaching and investgation in economics
         description: | # this will include new lines to allow paragraphs
             During the master I start to work with a SNI researcher in his investigation, helping with data analysis and developing algorithms for social programs evaluation. Meanwhile I’m teaching the “Introduction to Data Science” laboratory.
+      - layout: left
+        title: CIDE
+        link: cide.edu
+        #link_text: cide
+        sub_title: Research and Teaching Assistant
+        caption: July 2020 - Present
+        quote: >
+          Public center of teaching and investgation in economics
+        description: | # this will include new lines to allow paragraphs
+            During the master I start to work with a SNI researcher in his investigation, helping with data analysis and developing algorithms for social programs evaluation. Meanwhile I’m teaching the “Introduction to Data Science” laboratory.
         
        #- layout: left
          #title: Studio Ceri
