@@ -62,14 +62,34 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: Banxico
+        link: banxico.org.mx
+        #link_text: banxico
+        sub_title: Financial researcher
+        caption: July 2021 - November 2021
+        quote: >
+          Mexico central bank
+        description: | # this will include new lines to allow paragraphs
+            I am investigating the effects of climate change on Mexican credit portfolios. I am also developing and implementing econometric and machine learning techniques to anticipate portfolio delinquency.
+      - layout: left
+        title: Banorte
+        link: banorte.com
+        #link_text: banorte
+        sub_title: Data Analysis Manager
+        caption: July 2021 - November 2021
+        quote: >
+          Public center of teaching and investgation in economics
+        description: | # this will include new lines to allow paragraphs
+            My main tasks was developing and implementing machine learning algorithms to evaluate RCTs. Moreover I designed some experiments based on behavioral economics' theories.
       - layout: left
         title: CIDE
         link: cide.edu
         #link_text: cide
         sub_title: Research and Teaching Assistant
-        caption: July 2020 - Present
+        caption: July 2020 - July 2021
         quote: >
-          Public center of teaching and investgation in economics
+          Third player among mexican financial institutions
         description: | # this will include new lines to allow paragraphs
             During the master I start to work with a SNI researcher in his investigation, helping with data analysis and developing algorithms for social programs evaluation. Meanwhile I’m teaching the “Introduction to Data Science” laboratory.
       - layout: left
