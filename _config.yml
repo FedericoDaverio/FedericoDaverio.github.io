@@ -62,12 +62,12 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: left
+      - layout: left
         title: Banxico
         link: banxico.org.mx
         #link_text: banxico
         sub_title: Financial researcher
-        caption: July 2021 - November 2021
+        caption: November 2021 - Present
         quote: >
           Mexico central bank
         description: | # this will include new lines to allow paragraphs
